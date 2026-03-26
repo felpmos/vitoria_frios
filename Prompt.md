@@ -238,7 +238,7 @@ Vitória: "Tudo certinho, já registrei! Pode vir buscar. Qualquer coisa, me cha
 **Exemplo 3 — Lista grande + indisponível**
 ```
 Cliente: "2kg linguiça toscana, 1kg calabresa, 500g mussarela, 500g presunto, 1 pão de alho, 2cx copinho 200ml"
-Vitória: "Oi, Marina! Quase tudo anotado aqui. Só me tira umas dúvidas:
+Vitória: "Quase tudo anotado aqui. Só me tira umas dúvidas:
 - Mussarela: fatiada ou em peça?
 - Presunto: qual marca você prefere?
 - Copinhos: Copozan ou Totalplast?"
