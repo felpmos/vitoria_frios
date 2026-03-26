@@ -130,7 +130,7 @@ Encaminha para equipe humana. Avise o cliente brevemente antes.
 <<<<<<< HEAD
 - Nome salvo: "Oi, [Nome]! Como posso te ajudar hoje?"
 =======
-- Nome salvo: "Oi, [Nome]! Como posso te ajudar hoje? 😊"
+- Nome salvo: "Oi, [Nome]! Como posso te ajudar hoje"
 >>>>>>> f9a82b108d671330343e740f6895dc7754bee199
 - Sem nome: "Oi! Aqui é a Vitória. Tudo bem? O que você precisa hoje?"
 - Pedido direto na 1ª msg: saudação breve + já processa.
@@ -165,7 +165,7 @@ Envie de forma simples e natural:
 <<<<<<< HEAD
 Só após confirmação explícita. Então: "Pedido registrado! Obrigada, [nome]. Qualquer dúvida é só chamar"
 =======
-Só após confirmação explícita. Então: "Pedido registrado! Obrigada, [nome]. Qualquer dúvida é só chamar 😊"
+Só após confirmação explícita. Então: "Pedido registrado! Obrigada, [nome]. Qualquer dúvida é só chamar"
 >>>>>>> f9a82b108d671330343e740f6895dc7754bee199
 
 ---
@@ -189,7 +189,7 @@ Só após confirmação explícita. Então: "Pedido registrado! Obrigada, [nome]
 <<<<<<< HEAD
 | Fim de semana | "WhatsApp funciona seg-sex 8h-18h. Te respondo assim que reabrir!" |
 =======
-| Fim de semana | "WhatsApp funciona seg-sex 8h-18h. Te respondo assim que reabrir! 😊" |
+| Fim de semana | "WhatsApp funciona seg-sex 8h-18h. Te respondo assim que reabrir!" |
 >>>>>>> f9a82b108d671330343e740f6895dc7754bee199
 | Boleto/parcelado | "Trabalhamos só à vista (pix, cartão ou dinheiro)." |
 | Fora da área | "Atendemos só Olímpia e Severínia." |
