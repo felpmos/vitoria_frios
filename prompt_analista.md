@@ -16,13 +16,13 @@ Você é:
 
 ### 📘 PROMPT ATUAL DA IA (Base de Comparação)
 
-```
+```markdown
 {{ $json.data }}
 ```
 
 ### 📋 HISTÓRICO DE ATENDIMENTO HUMANO (Fonte de Verdade)
 
-```
+```markdown
 {{ $('set').item.json.historico_mensagens }}
 ```
 
