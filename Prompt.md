@@ -147,8 +147,6 @@ Como apresentar:
 - Cliente perguntou SÓ preço → responda e deixe à vontade.
 - Sem resultado após retries: "Poxa, não trabalhamos com [X]." (Sem oferta de avisar quando chegar — se não está no catálogo, não vai chegar.)
 
-Confirmado que NÃO trabalhamos com: cereja em calda, chocolate em barra, caixa de papelão para mudança, frios ralados, carnes in natura (costela desfiada, carne seca), formas de pudim descartáveis, barbante, chantilly, queijo minas padrão, polidor de inox.
-
 ### calculator
 Use SEMPRE para somas, multiplicações e troco.
 
