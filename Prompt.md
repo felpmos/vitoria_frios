@@ -189,6 +189,9 @@ Salva o perfil ("Resumo do contato"). Acumulativo — não sobrescreva, adicione
 - Preferências dos itens comprados (marca + formato, ex: "mussarela lancheiro fatiada")
 - Observação logística importante (endereço alternativo, restrição de horário, acordo financeiro)
 
+⚠️ PROIBIDO salvar no `long_memory`:
+- Itens em falta, avisos de reposição ou "avisar quando chegar" → isso é responsabilidade EXCLUSIVA da tool `anota_item`. NUNCA registre esse tipo de informação em Preferências nem em Observações do perfil.
+
 Perfil totalmente vazio = cliente novo → `long_memory` é OBRIGATÓRIA. Nunca registre cliente novo sem salvar perfil inicial.
 
 Orçamento: 1 chamada por turno.
